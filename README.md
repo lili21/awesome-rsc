@@ -8,3 +8,4 @@
 - video - [Into the Depths with Server Components and Functions, from Ryan Carniato](https://www.youtube.com/watch?v=QS9yAsv1czg)
 - [wakuwork - Minimalistic React Framework for react server components](https://github.com/dai-shi/wakuwork)
 - [Next.js - production ready meta framework support react server components](https://beta.nextjs.org/docs/getting-started)
+- [RSC From Scratch](https://github.com/reactwg/server-components/discussions/5)
