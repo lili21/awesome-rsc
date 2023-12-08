@@ -9,3 +9,5 @@
 - [wakuwork - Minimalistic React Framework for react server components](https://github.com/dai-shi/wakuwork)
 - [Next.js - production ready meta framework support react server components](https://beta.nextjs.org/docs/getting-started)
 - [RSC From Scratch](https://github.com/reactwg/server-components/discussions/5)
+- [RSC series articel from jess](https://jessedit.tech/articles/react-server-components/1-background/)
+- [React Server Components, without a framework?](https://timtech.blog/posts/react-server-components-rsc-no-framework/)
