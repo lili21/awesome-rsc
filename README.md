@@ -5,6 +5,7 @@
 
 ## Podcast
 - [The future of React with Dan Abramov & Joe Savono](https://changelog.com/jsparty/267)
+- [Remix and RSC](https://syntax.fm/show/649/supper-club-ryan-florence-of-remix)
 
 ## Article
 - [RFC: React Server Components](https://github.com/reactjs/rfcs/blob/main/text/0188-server-components.md)
