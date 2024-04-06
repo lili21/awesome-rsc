@@ -2,6 +2,7 @@
 - [React Server Components with Dan Abramov, Joe Savona, and Kent C. Dodds](https://www.youtube.com/watch?v=h7tur48JSaw&t=2403s)
 - [Dan Abramov explores React Server Components with us!, video](https://www.youtube.com/watch?v=Fctw7WjmxpU&t=317s)
 - [Into the Depths with Server Components and Functions, from Ryan Carniato](https://www.youtube.com/watch?v=QS9yAsv1czg)
+- [React server components from scratch!](https://www.youtube.com/watch?v=MaebEqhZR84)
 
 ## Podcast
 - [The future of React with Dan Abramov & Joe Savono](https://changelog.com/jsparty/267)
@@ -19,3 +20,4 @@
 ## RSC Framework
 - [wakuwork - Minimalistic React Framework for react server components](https://github.com/dai-shi/wakuwork)
 - [Next.js - production ready meta framework support react server components](https://nextjs.org/docs)
+- [Understand React Server Components and Server Actions by building a framework with them.](https://github.com/epicweb-dev/react-server-components)
